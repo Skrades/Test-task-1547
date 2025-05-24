@@ -1,0 +1,10 @@
+﻿  SceneCreator.cpp
+D:\programming\openGL\Test-task-1547\SceneCreator\src\SceneCreator.cpp(61,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\programming\openGL\Test-task-1547\SceneCreator\src\SceneCreator.cpp(61,49): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\programming\openGL\Test-task-1547\SceneCreator\src\SceneCreator.cpp(76,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\programming\openGL\Test-task-1547\SceneCreator\src\SceneCreator.cpp(76,48): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\programming\openGL\Test-task-1547\SceneCreator\src\SceneCreator.cpp(89,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\programming\openGL\Test-task-1547\SceneCreator\src\SceneCreator.cpp(89,49): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\programming\openGL\Test-task-1547\SceneCreator\src\SceneCreator.cpp(102,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\programming\openGL\Test-task-1547\SceneCreator\src\SceneCreator.cpp(102,49): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  SceneCreator.vcxproj -> D:\programming\openGL\Test-task-1547\build\SceneCreator\Debug\SceneCreator.lib

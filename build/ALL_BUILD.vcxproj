@@ -174,13 +174,17 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="D:\programming\openGL\Test-task-1547\build\Main\Main.vcxproj">
-      <Project>{34FC360C-64A7-3F87-B72F-D39710ACEC90}</Project>
-      <Name>Main</Name>
+    <ProjectReference Include="D:\programming\openGL\Test-task-1547\build\Example\Example.vcxproj">
+      <Project>{66A0C01C-E9B2-3A1F-82CA-D80CF119AFDD}</Project>
+      <Name>Example</Name>
     </ProjectReference>
     <ProjectReference Include="D:\programming\openGL\Test-task-1547\build\Objects\Objects.vcxproj">
       <Project>{1B46FC70-62BB-39B5-8175-61997295F315}</Project>
       <Name>Objects</Name>
+    </ProjectReference>
+    <ProjectReference Include="D:\programming\openGL\Test-task-1547\build\SceneCreator\SceneCreator.vcxproj">
+      <Project>{C9E05EF5-9DEA-306F-9D77-1D663289D107}</Project>
+      <Name>SceneCreator</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

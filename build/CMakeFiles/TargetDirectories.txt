@@ -1,4 +1,5 @@
 D:/programming/openGL/Test-task-1547/build/CMakeFiles/ALL_BUILD.dir
 D:/programming/openGL/Test-task-1547/build/CMakeFiles/ZERO_CHECK.dir
 D:/programming/openGL/Test-task-1547/build/Objects/CMakeFiles/Objects.dir
-D:/programming/openGL/Test-task-1547/build/Main/CMakeFiles/Main.dir
+D:/programming/openGL/Test-task-1547/build/SceneCreator/CMakeFiles/SceneCreator.dir
+D:/programming/openGL/Test-task-1547/build/Example/CMakeFiles/Example.dir

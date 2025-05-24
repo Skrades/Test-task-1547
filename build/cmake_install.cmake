@@ -35,7 +35,8 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("D:/programming/openGL/Test-task-1547/build/Objects/cmake_install.cmake")
-  include("D:/programming/openGL/Test-task-1547/build/Main/cmake_install.cmake")
+  include("D:/programming/openGL/Test-task-1547/build/SceneCreator/cmake_install.cmake")
+  include("D:/programming/openGL/Test-task-1547/build/Example/cmake_install.cmake")
 
 endif()
 
