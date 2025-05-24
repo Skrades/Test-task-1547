@@ -3,8 +3,10 @@
 #include <fstream>
 
 #include "Bitmap.hpp"
+#include "Frame.hpp"
 
 namespace Scene {
+
 	class SceneCreator {
 	public:
 		void create(std::ifstream& file);
@@ -13,10 +15,11 @@ namespace Scene {
 		void addRect(std::string line);
 		void addHLine(std::string line);
 		void addVLine(std::string line);
+		void addLine(std::string line);
+		void addTriangle(std::string line);
 
 	private:
 		Bitmap bmp;
-		int x;
-		int y;
+		Frame frame;
 	};
 }

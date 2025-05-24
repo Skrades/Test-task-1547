@@ -6,7 +6,7 @@ add_executable(${EXAMPLE_PROJECT}
     main.cpp
 )
 
-file(COPY ${CMAKE_CURRENT_SOURCE_DIR}/text.txt DESTINATION ${CMAKE_CURRENT_BINARY_DIR})
+file(COPY ${CMAKE_CURRENT_SOURCE_DIR}/Input.txt DESTINATION ${CMAKE_CURRENT_BINARY_DIR})
 
 target_link_libraries(${EXAMPLE_PROJECT} SceneCreator)
 target_compile_features(${EXAMPLE_PROJECT} PUBLIC cxx_std_17)

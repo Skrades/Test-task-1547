@@ -289,11 +289,16 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClInclude Include="D:\programming\openGL\Test-task-1547\Objects\include\Rect.hpp" />
     <ClInclude Include="D:\programming\openGL\Test-task-1547\Objects\include\HLine.hpp" />
     <ClInclude Include="D:\programming\openGL\Test-task-1547\Objects\include\VLine.hpp" />
+    <ClInclude Include="D:\programming\openGL\Test-task-1547\Objects\include\Frame.hpp" />
+    <ClInclude Include="D:\programming\openGL\Test-task-1547\Objects\include\Line.hpp" />
+    <ClInclude Include="D:\programming\openGL\Test-task-1547\Objects\include\Triangle.hpp" />
     <ClCompile Include="D:\programming\openGL\Test-task-1547\Objects\src\Object.cpp" />
     <ClCompile Include="D:\programming\openGL\Test-task-1547\Objects\src\Point.cpp" />
     <ClCompile Include="D:\programming\openGL\Test-task-1547\Objects\src\Rect.cpp" />
     <ClCompile Include="D:\programming\openGL\Test-task-1547\Objects\src\HLine.cpp" />
     <ClCompile Include="D:\programming\openGL\Test-task-1547\Objects\src\VLine.cpp" />
+    <ClCompile Include="D:\programming\openGL\Test-task-1547\Objects\src\Line.cpp" />
+    <ClCompile Include="D:\programming\openGL\Test-task-1547\Objects\src\Triangle.cpp" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

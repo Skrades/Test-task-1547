@@ -1,19 +1,9 @@
 ﻿  1>Checking Build System
-  CMake is re-running because generate.stamp.list is missing.
-  -- Building for: Visual Studio 17 2022
+  CMake is re-running because D:/programming/openGL/Test-task-1547/build/Objects/CMakeFiles/generate.stamp is out-of-date.
+    the file 'D:/programming/openGL/Test-task-1547/Objects/CMakeLists.txt'
+    is newer than 'D:/programming/openGL/Test-task-1547/build/Objects/CMakeFiles/generate.stamp.depend'
+    result='-1'
   -- Selecting Windows SDK version 10.0.22621.0 to target Windows 10.0.19045.
-  -- The C compiler identification is MSVC 19.42.34436.0
-  -- The CXX compiler identification is MSVC 19.42.34436.0
-  -- Detecting C compiler ABI info
-  -- Detecting C compiler ABI info - done
-  -- Check for working C compiler: D:/Visual Studio/VC/Tools/MSVC/14.42.34433/bin/Hostx64/x64/cl.exe - skipped
-  -- Detecting C compile features
-  -- Detecting C compile features - done
-  -- Detecting CXX compiler ABI info
-  -- Detecting CXX compiler ABI info - done
-  -- Check for working CXX compiler: D:/Visual Studio/VC/Tools/MSVC/14.42.34433/bin/Hostx64/x64/cl.exe - skipped
-  -- Detecting CXX compile features
-  -- Detecting CXX compile features - done
-  -- Configuring done (1.8s)
+  -- Configuring done (0.0s)
   -- Generating done (0.0s)
   -- Build files have been written to: D:/programming/openGL/Test-task-1547/build

@@ -6,7 +6,7 @@ namespace Scene {
 	class VLine : public Scene::Point {
 	public:
 		VLine(int y1, int y2, int x);
-		void draw(uint8_t* m_buffer, int x, int y, int m_width, int m_height) override;
+		void draw(uint8_t* m_buffer, Frame frame, int width) override;
 
 	private:
 		int y2;

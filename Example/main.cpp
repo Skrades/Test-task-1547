@@ -4,9 +4,8 @@
 #include <filesystem>
 
 int main() {
-	//std::cout << "Текущая рабочая директория: " << std::filesystem::current_path() << std::endl;
 	Scene::SceneCreator creator;
-	std::ifstream in("text.txt");
+	std::ifstream in("Input.txt");
 	if(in.is_open())
 		creator.create(in);
 	in.close();

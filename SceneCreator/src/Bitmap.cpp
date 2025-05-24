@@ -11,15 +11,16 @@ namespace Scene {
 	{
 		std::ofstream file(filename, std::ios::binary);
 
-		const uint32_t fileSize = 54 + m_width * m_height * 3;
-		const uint32_t dataOffset = 54;
-		const uint32_t headerSize = 40;
-		const uint16_t planes = 1;
-		const uint16_t bpp = 24;
+		const int fileSize = 54 + m_width * m_height * 3;
+		const int dataOffset = 54;
+		const int headerSize = 40;
+		const int planes = 1;
+		const int bpp = 24;
 
 		file.write("BM", 2);
 		file.write(reinterpret_cast<const char*>(&fileSize), 4);
 		file.write("\0\0\0\0", 4);
+
 		file.write(reinterpret_cast<const char*>(&dataOffset), 4);
 		file.write(reinterpret_cast<const char*>(&headerSize), 4);
 		file.write(reinterpret_cast<const char*>(&m_width), 4);

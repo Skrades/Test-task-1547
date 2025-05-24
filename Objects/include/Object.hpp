@@ -1,6 +1,7 @@
 #pragma once
 
 #include <cstdint>
+#include "Frame.hpp"
 
 namespace Scene {
 	class Object {
@@ -11,7 +12,7 @@ namespace Scene {
 		int getX() const;
 		int getY() const;
 
-		void virtual draw(uint8_t* m_buffer, int x, int y, int m_width, int m_height) = 0;
+		void virtual draw(uint8_t* m_buffer, Frame frame, int width) = 0;
 
 	protected:
 		int x;

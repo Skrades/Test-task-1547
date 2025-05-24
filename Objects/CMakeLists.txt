@@ -8,6 +8,9 @@ set(INCLUDES
     include/Rect.hpp
     include/HLine.hpp
     include/VLine.hpp
+    include/Frame.hpp
+    include/Line.hpp
+    include/Triangle.hpp
 )
 
 set(SOURCES
@@ -16,6 +19,8 @@ set(SOURCES
     src/Rect.cpp
     src/HLine.cpp
     src/VLine.cpp
+    src/Line.cpp
+    src/Triangle.cpp
 )
 
 add_library(${OBJECTS_PROJECT} STATIC ${INCLUDES} ${SOURCES})

@@ -16,6 +16,12 @@
     <ClCompile Include="D:\programming\openGL\Test-task-1547\Objects\src\VLine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="D:\programming\openGL\Test-task-1547\Objects\src\Line.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\programming\openGL\Test-task-1547\Objects\src\Triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="D:\programming\openGL\Test-task-1547\Objects\include\Object.hpp">
@@ -31,6 +37,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="D:\programming\openGL\Test-task-1547\Objects\include\VLine.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\programming\openGL\Test-task-1547\Objects\include\Frame.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\programming\openGL\Test-task-1547\Objects\include\Line.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\programming\openGL\Test-task-1547\Objects\include\Triangle.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
