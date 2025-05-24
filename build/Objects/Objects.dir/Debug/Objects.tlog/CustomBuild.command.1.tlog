@@ -1,0 +1,10 @@
+^D:\PROGRAMMING\OPENGL\TEST-TASK-1547\OBJECTS\CMAKELISTS.TXT
+setlocal
+D:\CMake\bin\cmake.exe -SD:/programming/openGL/Test-task-1547 -BD:/programming/openGL/Test-task-1547/build --check-stamp-file D:/programming/openGL/Test-task-1547/build/Objects/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

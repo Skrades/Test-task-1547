@@ -1,0 +1,10 @@
+^D:\PROGRAMMING\OPENGL\TEST-TASK-1547\BUILD\CMAKEFILES\102C142BA6C3A5AC8BE6EB2B361A99C6\GENERATE.STAMP.RULE
+setlocal
+D:\CMake\bin\cmake.exe -SD:/programming/openGL/Test-task-1547 -BD:/programming/openGL/Test-task-1547/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/programming/openGL/Test-task-1547/build/2DScene.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

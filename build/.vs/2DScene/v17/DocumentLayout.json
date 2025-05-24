@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\openGL\\Test-task-1547\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B46FC70-62BB-39B5-8175-61997295F315}|Objects\\Objects.vcxproj|D:\\programming\\openGL\\Test-task-1547\\Objects\\src\\VLine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B46FC70-62BB-39B5-8175-61997295F315}|Objects\\Objects.vcxproj|D:\\programming\\openGL\\Test-task-1547\\Objects\\include\\VLine.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FC360C-64A7-3F87-B72F-D39710ACEC90}|Main\\Main.vcxproj|D:\\programming\\openGL\\Test-task-1547\\Main\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B46FC70-62BB-39B5-8175-61997295F315}|Objects\\Objects.vcxproj|D:\\programming\\openGL\\Test-task-1547\\Objects\\src\\HLine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B46FC70-62BB-39B5-8175-61997295F315}|Objects\\Objects.vcxproj|D:\\programming\\openGL\\Test-task-1547\\Objects\\src\\Rect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B46FC70-62BB-39B5-8175-61997295F315}|Objects\\Objects.vcxproj|D:\\programming\\openGL\\Test-task-1547\\Objects\\include\\HLine.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B46FC70-62BB-39B5-8175-61997295F315}|Objects\\Objects.vcxproj|D:\\programming\\openGL\\Test-task-1547\\Objects\\include\\Rect.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B46FC70-62BB-39B5-8175-61997295F315}|Objects\\Objects.vcxproj|D:\\programming\\openGL\\Test-task-1547\\Objects\\src\\Point.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B46FC70-62BB-39B5-8175-61997295F315}|Objects\\Objects.vcxproj|D:\\programming\\openGL\\Test-task-1547\\Objects\\src\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B46FC70-62BB-39B5-8175-61997295F315}|Objects\\Objects.vcxproj|D:\\programming\\openGL\\Test-task-1547\\Objects\\include\\Object.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B46FC70-62BB-39B5-8175-61997295F315}|Objects\\Objects.vcxproj|D:\\programming\\openGL\\Test-task-1547\\Objects\\include\\Point.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VLine.cpp",
+              "DocumentMoniker": "D:\\programming\\openGL\\Test-task-1547\\Objects\\src\\VLine.cpp",
+              "RelativeDocumentMoniker": "..\\Objects\\src\\VLine.cpp",
+              "ToolTip": "D:\\programming\\openGL\\Test-task-1547\\Objects\\src\\VLine.cpp",
+              "RelativeToolTip": "..\\Objects\\src\\VLine.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-24T04:42:34.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HLine.cpp",
+              "DocumentMoniker": "D:\\programming\\openGL\\Test-task-1547\\Objects\\src\\HLine.cpp",
+              "RelativeDocumentMoniker": "..\\Objects\\src\\HLine.cpp",
+              "ToolTip": "D:\\programming\\openGL\\Test-task-1547\\Objects\\src\\HLine.cpp",
+              "RelativeToolTip": "..\\Objects\\src\\HLine.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-24T04:38:20.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VLine.hpp",
+              "DocumentMoniker": "D:\\programming\\openGL\\Test-task-1547\\Objects\\include\\VLine.hpp",
+              "RelativeDocumentMoniker": "..\\Objects\\include\\VLine.hpp",
+              "ToolTip": "D:\\programming\\openGL\\Test-task-1547\\Objects\\include\\VLine.hpp",
+              "RelativeToolTip": "..\\Objects\\include\\VLine.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T04:37:58.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HLine.hpp",
+              "DocumentMoniker": "D:\\programming\\openGL\\Test-task-1547\\Objects\\include\\HLine.hpp",
+              "RelativeDocumentMoniker": "..\\Objects\\include\\HLine.hpp",
+              "ToolTip": "D:\\programming\\openGL\\Test-task-1547\\Objects\\include\\HLine.hpp",
+              "RelativeToolTip": "..\\Objects\\include\\HLine.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T04:34:45.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rect.cpp",
+              "DocumentMoniker": "D:\\programming\\openGL\\Test-task-1547\\Objects\\src\\Rect.cpp",
+              "RelativeDocumentMoniker": "..\\Objects\\src\\Rect.cpp",
+              "ToolTip": "D:\\programming\\openGL\\Test-task-1547\\Objects\\src\\Rect.cpp",
+              "RelativeToolTip": "..\\Objects\\src\\Rect.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-24T04:22:25.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rect.hpp",
+              "DocumentMoniker": "D:\\programming\\openGL\\Test-task-1547\\Objects\\include\\Rect.hpp",
+              "RelativeDocumentMoniker": "..\\Objects\\include\\Rect.hpp",
+              "ToolTip": "D:\\programming\\openGL\\Test-task-1547\\Objects\\include\\Rect.hpp",
+              "RelativeToolTip": "..\\Objects\\include\\Rect.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T04:20:22.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\programming\\openGL\\Test-task-1547\\Main\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Main\\main.cpp",
+              "ToolTip": "D:\\programming\\openGL\\Test-task-1547\\Main\\main.cpp",
+              "RelativeToolTip": "..\\Main\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-24T04:13:42.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Point.hpp",
+              "DocumentMoniker": "D:\\programming\\openGL\\Test-task-1547\\Objects\\include\\Point.hpp",
+              "RelativeDocumentMoniker": "..\\Objects\\include\\Point.hpp",
+              "ToolTip": "D:\\programming\\openGL\\Test-task-1547\\Objects\\include\\Point.hpp",
+              "RelativeToolTip": "..\\Objects\\include\\Point.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T03:59:47.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Point.cpp",
+              "DocumentMoniker": "D:\\programming\\openGL\\Test-task-1547\\Objects\\src\\Point.cpp",
+              "RelativeDocumentMoniker": "..\\Objects\\src\\Point.cpp",
+              "ToolTip": "D:\\programming\\openGL\\Test-task-1547\\Objects\\src\\Point.cpp",
+              "RelativeToolTip": "..\\Objects\\src\\Point.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-24T03:59:46.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Object.cpp",
+              "DocumentMoniker": "D:\\programming\\openGL\\Test-task-1547\\Objects\\src\\Object.cpp",
+              "RelativeDocumentMoniker": "..\\Objects\\src\\Object.cpp",
+              "ToolTip": "D:\\programming\\openGL\\Test-task-1547\\Objects\\src\\Object.cpp",
+              "RelativeToolTip": "..\\Objects\\src\\Object.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-24T03:56:31.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Object.hpp",
+              "DocumentMoniker": "D:\\programming\\openGL\\Test-task-1547\\Objects\\include\\Object.hpp",
+              "RelativeDocumentMoniker": "..\\Objects\\include\\Object.hpp",
+              "ToolTip": "D:\\programming\\openGL\\Test-task-1547\\Objects\\include\\Object.hpp",
+              "RelativeToolTip": "..\\Objects\\include\\Object.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-24T03:49:30.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
