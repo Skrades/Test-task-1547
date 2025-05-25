@@ -6,7 +6,12 @@ add_executable(${EXAMPLE_PROJECT}
     main.cpp
 )
 
-file(COPY ${CMAKE_CURRENT_SOURCE_DIR}/Input.txt DESTINATION ${CMAKE_CURRENT_BINARY_DIR})
+add_custom_command(
+    TARGET ${EXAMPLE_PROJECT} PRE_BUILD
+    COMMAND ${CMAKE_COMMAND} -E copy
+        ${CMAKE_CURRENT_SOURCE_DIR}/Input.txt
+        ${CMAKE_CURRENT_BINARY_DIR}/Input.txt
+)
 
 target_link_libraries(${EXAMPLE_PROJECT} SceneCreator)
 target_compile_features(${EXAMPLE_PROJECT} PUBLIC cxx_std_17)

@@ -1,9 +1,1 @@
 ﻿  1>Checking Build System
-  CMake is re-running because D:/programming/openGL/Test-task-1547/build/Objects/CMakeFiles/generate.stamp is out-of-date.
-    the file 'D:/programming/openGL/Test-task-1547/Objects/CMakeLists.txt'
-    is newer than 'D:/programming/openGL/Test-task-1547/build/Objects/CMakeFiles/generate.stamp.depend'
-    result='-1'
-  -- Selecting Windows SDK version 10.0.22621.0 to target Windows 10.0.19045.
-  -- Configuring done (0.0s)
-  -- Generating done (0.0s)
-  -- Build files have been written to: D:/programming/openGL/Test-task-1547/build

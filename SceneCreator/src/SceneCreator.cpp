@@ -42,7 +42,7 @@ namespace Scene {
 				continue;
 			}
 		}
-		bmp.save("test.bmp");
+		bmp.save("../../Example/Output.bmp");
 	}	
 
 	void SceneCreator::createBitmap(std::string line) {
